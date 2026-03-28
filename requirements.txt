@@ -1,0 +1,15 @@
+numpy
+timm
+torch
+torchvision
+tqdm
+pillow
+scikit-learn
+configargparse
+python-dotenv
+diffusers
+transformers
+accelerate
+safetensors
+sentencepiece
+ftfy
